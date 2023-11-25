@@ -1,2 +1,2 @@
-# iris
- iris dataset classification using neural networks
+# iris_classification
+iris dataset classification using neural networks
